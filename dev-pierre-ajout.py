@@ -1,1 +1,1 @@
-print(dsqd)
+print("Hello")
