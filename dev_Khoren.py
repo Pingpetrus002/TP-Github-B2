@@ -1,4 +1,4 @@
-import random
+import rando m
 
 def lancer_de():
     return random.randint(1, 6)
