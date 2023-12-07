@@ -1,2 +1,2 @@
 # TP Github
-## Sularec Pierre / Kovacevic Maxence / Louis Faure / Khoren Torikian
+## Sularec Pierre / Kovacevic Maxence / Faure Louis / Torikian Khoren
