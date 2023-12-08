@@ -16,3 +16,29 @@ Bienvenue dans la roadmap de notre application "To-Do List" ! Découvrez les pri
 
 - **Main :** Branche Protégé par des règles de pulls requests obligatoires 
 - **Autre branche :** Création de 4 autres branches en fonction des principales fonctionnalités, ces branches ont été nommées en fonction d'une nomenclature spécifique
+
+## Installation
+Pour utiliser notre application "To-Do List", suivez ces étapes simples :
+
+### Clonez ce dépôt sur votre machine.
+
+    ```
+    git clone https://github.com/votre-utilisateur/todo-list-app.git
+    ```
+
+
+### Accédez au répertoire de l'application.
+
+    ```
+    cd todo-list-app
+    ```
+
+
+### Installez les dépendances.
+
+    ```
+    npm install
+    ```
+
+
+Vous voilà prêt à commencer à organiser vos tâches avec notre application !
