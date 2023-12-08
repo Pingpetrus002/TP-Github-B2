@@ -10,7 +10,7 @@ try:
 
     nom_jour = date.strftime("%A")
     
-    print(f"Le jour correspondant à la date {date_string} est : {nom_du_jour}")
+    print(f"Le jour correspondant à la date {date_string} est : {nom_jour}")
     
 except ValueError:
     print("Format de date incorrect. Assurez-vous d'utiliser le format jj/mm/yyyy.")
